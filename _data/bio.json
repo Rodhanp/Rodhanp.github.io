@@ -6,7 +6,7 @@
     "email": "rxp163@student.bham.ac.uk",
     "phone": "+91 9768523836",
     "website": "https://Rodhanp.github.io",
-    "summary": "I will be studying a M.Sc. in Molecular Biotechnology in the School of Biosciences at the University of Birmingham, U.K. I expect to begin my studies in Septermber 2021.",
+    "summary": "I will be studying a M.Sc. in Molecular Biotechnology in the School of Biosciences at the University of Birmingham. I expect to begin my studies in Septermber 2021.",
     "location": {
       "address": "University of Birmingham, Edgbaston",
       "postalCode": "B15 2TT",
@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "Rodhanp",
+        "username": "rodhan-patke",
         "url": "http://linkedin.com/in/changeme"
       },
       {
@@ -83,39 +83,48 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Birmingham, UK",
+      "area": "Molecular Biotechnology (expected to begin in September, 2021)",
+      "studyType": "M.Sc.",
+      "startDate": "2021-09-27",
       "endDate": "Present",
       "gpa": "",
+      
+      {
+      "institution": "University of Mumbai, IND",
+      "area": "Biotechnology",
+      "studyType": "B.Sc.",
+      "startDate": "2018",
+      "endDate": "2021",
+      "gpa": "",
+      
       "courses": [
       ]
     }
   ],
-  "work": [
+  "Internships": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Bai Jerabai Wadia Hospital for Children, Mumbai, India",
+      "position": "Student Intern at Molecular Genetics Lab",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2018-11-01",
+      "endDate": "2018-11-2",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Received hands-on experience in molecular biology laboratory techniques like Allele specific-PCR, RFLP, and Agarose gel electrophoresis.",
+        "Gained knowledge of bioinformatics tools for sequence retrieval and primer designing."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Bai Jerabai Wadia Hospital for Children, Mumbai, India",
+      "position": "Student Intern at Molecular Genetics Lab",
+      "website": "",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Worked with bioinformatics sequence analysis and received hands-on experience in molecular biology laboratory techniques like PCR, Agarose gel electrophoresis, RFLP.",
+        ""
       ]
     }
   ],
