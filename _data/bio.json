@@ -24,17 +24,8 @@
         "network": "linkedin",
         "username": "rodhan-patke",
         "url": "http://linkedin.com/in/rodhan-patke"
-      },
-      {
-        "network": "twitter",
-        "username": "Rodhanp",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
+      
     ]
   },
   "interests": [
