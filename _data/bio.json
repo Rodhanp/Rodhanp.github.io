@@ -39,45 +39,47 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Neuro-Biotechnology",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Computational Biology",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "WetLab Skills",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PCR",
+        "AGE",
+        "RFLP",
+        "AS-PCR"
+        
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Python",
+        "R",
+        "Autodock",
+        "Weka",
+        "MATLAB",
+        "Jupyter Lab",
+        "Git/Github",
+        "Latex"
       ]
     }
   ],
@@ -91,10 +93,20 @@
       "gpa": "",
       "courses": [
       ]
+    },
+    {
+      "institution": "University of Mumbai, IND",
+      "area": "Biotechnology",
+      "studyType": "B.Sc.",
+      "startDate": "2018",
+      "endDate": "2021",
+      "gpa": "",
+      "courses": [
+      ]
     }
     
   ],
-  "Internships": [
+  "Work": [
     {
       "company": "Bai Jerabai Wadia Hospital for Children, Mumbai, India",
       "position": "Student Intern at Molecular Genetics Lab",
