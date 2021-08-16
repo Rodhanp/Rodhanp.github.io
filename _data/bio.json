@@ -89,15 +89,16 @@
       "startDate": "2021-09-27",
       "endDate": "Present",
       "gpa": "",
-    } 
-      {
+      "courses": [
+      ]
+    }
+    {
       "institution": "University of Mumbai, IND",
       "area": "Biotechnology",
       "studyType": "B.Sc.",
       "startDate": "2018",
       "endDate": "2021",
       "gpa": "",
-      
       "courses": [
       ]
     }
