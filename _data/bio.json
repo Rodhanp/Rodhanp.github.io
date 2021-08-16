@@ -151,16 +151,34 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Certificate of Merit",
+      "date": "June 2021",
+      "awarder": "University of Mumbai",
+      "summary": "Selected for Final Round of 15th Inter-Collegiate/Institute/Department Avishkar Research Convention: 2020-21 for a research proposal titled 'Development and Validation of Bioinformatics Online Software for Taxonomical Identification of Enterobacteriaceae Species Using Biochemical Examinations'."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "First place in intra-college science exhibition - Origin 2021",
+      "date": "2021",
+      "awarder": "Thakur College of Science and Commerce",
+      "summary": "Secured 1st place for project entitled 'Morphological characterization of endophytic bacteria from Moringa Oleifera'."
+    },
+    {
+      "title": "Third place in intra-college science exhibition - Origin 2020",
+      "date": "2020",
+      "awarder": "Thakur College of Science and Commerce",
+      "summary": "Secured 3rd place for project entitled 'Online database of Bacterial Identification'."
+    },
+    {
+      "title": "Certificate of Participation in Avishkar Research Convention 2019-20",
+      "date": "2019",
+      "awarder": "University of Mumbai",
+      "summary": "Performed and presented a wet-lab research project on 'Isolation and characterization of endophytic bacteria from Moringa oleifera'."
+    },
+    {
+      "title": "Second place in intra-college science exhibition - Origin 2019",
+      "date": "2021",
+      "awarder": "Thakur College of Science and Commerce",
+      "summary": "Secured 2nd place for science project on 'CRISPR Technology'."
     }
   ],
   "references": [
