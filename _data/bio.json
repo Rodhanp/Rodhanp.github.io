@@ -2,7 +2,7 @@
   "basics": {
     "name": "Rodhan Patke",
     "label": "Student",
-    "picture": "https://github.com/Rodhanp/Rodhanp.github.io/raw/master/images/Rodhan-Photo-10082021.jpg",
+    "picture": "https://Rodhanp.github.io/images/Rodhan-Photo-10082021.jpg",
     "email": "rxp163@student.bham.ac.uk",
     "phone": "+91 9768523836",
     "website": "https://Rodhanp.github.io",
@@ -92,16 +92,7 @@
       "courses": [
       ]
     }
-    {
-      "institution": "University of Mumbai, IND",
-      "area": "Biotechnology",
-      "studyType": "B.Sc.",
-      "startDate": "2018",
-      "endDate": "2021",
-      "gpa": "",
-      "courses": [
-      ]
-    }
+    
   ],
   "Internships": [
     {
