@@ -12,7 +12,7 @@
       "postalCode": "B15 2TT",
       "city": "Birmingham",
       "countryCode": "United Kingdom",
-      "region": ""
+      "region": "West Midlands"
     },
     "profiles": [
       {
@@ -48,7 +48,7 @@
   ],
   "skills": [
     {
-      "name": "WetLab Skills",
+      "name": "Wet-Lab Skills",
       "level": "",
       "keywords": [
         "PCR",
