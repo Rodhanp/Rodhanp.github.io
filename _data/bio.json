@@ -41,8 +41,7 @@
     {
       "name": "Neuro-Biotechnology",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
@@ -70,7 +69,7 @@
     },
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Self-taught",
       "keywords": [
         "Python",
         "R",
@@ -101,12 +100,12 @@
       "startDate": "2018",
       "endDate": "2021",
       "gpa": "",
-      "courses": [
+      "courses": [ "Bioinformatics Certificate Course from the University of Mumbai"
       ]
     }
     
   ],
-  "Work": [
+  "work": [
     {
       "company": "Bai Jerabai Wadia Hospital for Children, Mumbai, India",
       "position": "Student Intern at Molecular Genetics Lab",
