@@ -1,33 +1,33 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Rodhan Patke",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://github.com/Rodhanp/Rodhanp.github.io/blob/master/images/Rodhan-Photo-10082021.jpg",
+    "email": "rxp163@student.bham.ac.uk",
+    "phone": "+91 9768523836",
+    "website": "https://Rodhanp.github.io",
+    "summary": "I will be studying a M.Sc. in Molecular Biotechnology in the School of Biosciences at the University of Birmingham, U.K. I expect to begin my studies in Septermber 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "University of Birmingham, Edgbaston",
+      "postalCode": "B15 2TT",
+      "city": "Birmingham",
+      "countryCode": "United Kingdom",
+      "region": "Midlands"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "Rodhanp",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Rodhanp",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "Rodhanp",
         "url": "http://twitter.com/changeme"
       },
       {
