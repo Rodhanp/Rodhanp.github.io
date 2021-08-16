@@ -99,11 +99,11 @@
   "work": [
     {
       "company": "Bai Jerabai Wadia Hospital for Children, Mumbai, India",
-      "position": "Student Intern at Molecular Genetics Lab",
-      "website": "",
-      "startDate": "2018-11-01",
-      "endDate": "2018-11-2",
-      "summary": "Head of online presence for Ka Leo",
+      "position": "Student Intern at Molecular Genetics Research Lab",
+      "website": "http://www.wadiahospitals.org/BJWHC.aspx",
+      "startDate": "2019-05-31",
+      "endDate": "2019-06-14",
+      "summary": "",
       "highlights": [
         "Received hands-on experience in molecular biology laboratory techniques like Allele specific-PCR, RFLP, and Agarose gel electrophoresis.",
         "Gained knowledge of bioinformatics tools for sequence retrieval and primer designing."
@@ -111,10 +111,10 @@
     },
     {
       "company": "Bai Jerabai Wadia Hospital for Children, Mumbai, India",
-      "position": "Student Intern at Molecular Genetics Lab",
-      "website": "",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "position": "Student Intern at Molecular Genetics Research Lab",
+      "website": "http://www.wadiahospitals.org/BJWHC.aspx",
+      "startDate": "2018-11-12",
+      "endDate": "2018-11-24",
       "summary": "",
       "highlights": [
         "Worked with bioinformatics sequence analysis and received hands-on experience in molecular biology laboratory techniques like PCR, Agarose gel electrophoresis, RFLP.",
