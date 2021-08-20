@@ -124,28 +124,28 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Thakur College of Science and Commerce",
+      "website": "https://youtu.be/VjCFG6ptDwI",
+      "position": "Team Member and Video Editor",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Awareness of government schemes",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Audio visual movie and explanatory presentations were made for spreading awareness of Ayushman Bharat Pradhan Mantri Jan Arogya Yojana and Mission Indradhanush to Non-Academic staff of Thakur College of Science and Commerce."
+        
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
+      "organization": "Thakur College of Science and Commerce",
+      "website": "https://www.tcsc.edu.in/",
+      "position": "Student Volunteer",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Cultural Event Management",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Organised and Managed Cultural/Extra-Curricular events",
+        "Video and Audio creation",
+        "Stage audio/visual management during live events"
       ]
     }
   ],
