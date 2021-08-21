@@ -5,7 +5,7 @@ published: true
 image: images/moringa.jpg
 title: moringa
 permalink: projects/moringa
-date: 2019-20
+date: 2019
 labels:
   - Antimicrobial activity 
   - Endophytic bacteria
